@@ -1,0 +1,7 @@
+Memtest result: GOOD
+MAC: f4-4d-30-62-d0-62 (n1r)
+UUID: d61ac480-7277-11e3-b26a-f44d3062d062
+Product:  ()
+Serial:  (board: )
+Asset: 
+
